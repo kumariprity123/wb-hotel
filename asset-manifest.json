@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/wb-hotel/static/css/main.448954de.css",
-    "main.js": "/wb-hotel/static/js/main.60d06e90.js",
+    "main.js": "/wb-hotel/static/js/main.39035124.js",
     "static/js/787.b57e0bf1.chunk.js": "/wb-hotel/static/js/787.b57e0bf1.chunk.js",
     "static/media/logo.png": "/wb-hotel/static/media/logo.f9bd21f180b4f0535f7f.png",
     "static/media/google_play_badge.png": "/wb-hotel/static/media/google_play_badge.8ef98f919b7272b5dcfc.png",
     "index.html": "/wb-hotel/index.html",
     "main.448954de.css.map": "/wb-hotel/static/css/main.448954de.css.map",
-    "main.60d06e90.js.map": "/wb-hotel/static/js/main.60d06e90.js.map",
+    "main.39035124.js.map": "/wb-hotel/static/js/main.39035124.js.map",
     "787.b57e0bf1.chunk.js.map": "/wb-hotel/static/js/787.b57e0bf1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.448954de.css",
-    "static/js/main.60d06e90.js"
+    "static/js/main.39035124.js"
   ]
 }
